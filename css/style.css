@@ -42,12 +42,12 @@ body {
       content: ""; }
 
 a {
-  color: #0bbbe6;
+  color: rgb(66, 255, 107);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #0bbbe6;
+    color: rgb(66, 255, 107);
     outline: none;
     text-decoration: none; }
 
